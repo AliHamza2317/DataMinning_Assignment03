@@ -53,8 +53,7 @@ The model is trained on the "creditcard.csv" file, which should contain typical 
    
 2. Download the dataset  `creditcard.csv` from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud and place it in the `data/` directory.
 
-3. Run the `main.py` script:
-   python main.py
+3. Open and run the `main.ipynb` notebook using Jupyter.
 
    This will train the model and output the Precision-Recall AUC score as well as a classification report.
 
