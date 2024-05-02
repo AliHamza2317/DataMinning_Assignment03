@@ -50,7 +50,7 @@ The model is trained on the "creditcard.csv" file, which should contain typical 
 # Usage
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
+   git clone https://github.com/AliHamza2317/DataMinning_Assignment03.git
    
 2. Download the dataset `creditcard.csv` and place it in the `data/` directory.
 
