@@ -24,6 +24,7 @@ The model is trained on the "creditcard.csv" file, which should contain typical 
 
 
 Model Details
+
 Data Preprocessing
     The data is scaled using StandardScaler.
     Missing values are dropped (if any).
@@ -67,3 +68,5 @@ Anomaly detection is crucial in identifying potential cases of credit card fraud
 Contributing
 
 Contributions are welcome. Please open an issue first to discuss what you would like to change.
+
+
