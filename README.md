@@ -33,8 +33,7 @@ The model is trained on the "creditcard.csv" file, which should contain typical 
     It is a key component of the GAN, acting as the generator.
 
 # Discriminator
-    The discriminator is a simple neural network that learns to differentiate between real and reconstructed data.
-    It uses contrastive loss to enhance its differentiation capabilities.
+    A component of the GAN framework responsible for distinguishing between real and fake data. It aids in training the autoencoder by providing feedback on the quality of the reconstructed data.
 
 # GAN Integration
     The GAN combines the autoencoder and discriminator.
