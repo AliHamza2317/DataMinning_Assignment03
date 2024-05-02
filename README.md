@@ -52,7 +52,7 @@ The model is trained on the "creditcard.csv" file, which should contain typical 
 1. Clone the repository:
    git clone https://github.com/AliHamza2317/DataMinning_Assignment03.git
    
-2. Download the dataset `creditcard.csv` and place it in the `data/` directory.
+2. Download the dataset  `creditcard.csv` from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud and place it in the `data/` directory.
 
 3. Run the `main.py` script:
    python main.py
